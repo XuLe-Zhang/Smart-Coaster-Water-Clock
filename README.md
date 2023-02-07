@@ -1,6 +1,7 @@
 # Smart-Coaster-Water-Clock
 基于STM32的智能杯垫——喝水提醒
 本项目主要功能为通过人为设置定时时长，将水杯放入杯垫上，当到达设置时间后将会通过语音提醒与屏幕显示方式提醒喝水，且本项目有设置上位机操作界面与操作过程中语音播报功能。
+![展示图](https://user-images.githubusercontent.com/101940687/217237323-2bc310d3-2e2c-48bb-ba60-bfd8462edf6d.jpg)
 
 所需硬件：
 1.STM32F103C8T6
